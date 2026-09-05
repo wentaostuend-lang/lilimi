@@ -274,6 +274,8 @@
   "modules/assistant/helper.js",
   "force-update.js",
   "modules/floating-ball.js",
+  "modules/keyboard-fix.js",
+  "modules/smart-sticker-v7.js",
   "css/keep-alive-player.css",
   "css/auth-intro.css",
   "css/clean-chat-detail.css",
